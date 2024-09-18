@@ -11,14 +11,14 @@ const unPerritoMuyLindo = {
 
 // Destructuración en objetos
 
-// const { breed, age, dogName, id } = unPerritoMuyLindo
+const { breed, age, dogName, id } = unPerritoMuyLindo
 
-// // console.log(dogName, breed, age)
+// console.log(dogName, breed, age)
 
-// console.log( `El perrito ${dogName} es de raza ${breed} y tiene ${age} añitos de edad` )
+console.log( `El perrito ${dogName} es de raza ${breed} y tiene ${age} añitos de edad` )
 
 
-// console.log( `Este perrito ${dogName} es muy lindo. 11/10` )
+console.log( `Este perrito ${dogName} es muy lindo. 11/10` )
 
 
 const unPerritoMuyLindo2 = {
